@@ -6,15 +6,15 @@ VENOM CAM is a web app that converts live webcam feed or uploaded images into cu
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🎥 Live Camera Mode (real-time ASCII conversion)
-- 🖼️ Image Upload Support
-- ⚡ Real-time processing using Canvas API
-- 🎛️ Adjustable controls (brightness, contrast, density)
-- 🎨 Multiple ASCII styles and visual presets
-- 💾 Export output as PNG
-- 🌑 Dark cyberpunk-themed UI
+- Live Camera Mode (real-time ASCII conversion)
+- Image Upload Support
+- Real-time processing using Canvas API
+- Adjustable controls (brightness, contrast, density)
+- Multiple ASCII styles and visual presets
+- Export output as PNG
+- Dark cyberpunk-themed UI
 
 ---
 
